@@ -1,0 +1,39 @@
+user:
+  isAdmin: false
+  name: Dmitry
+  age: 28
+  post: developer
+  skills:
+    - .NET
+    - MQ
+    - Sql
+    - NoSql
+    - DevOps
+  address: >
+    Cool street 27, 131
+  pets:
+    - cat
+    - fish
+    - child
+
+skill:
+  name: Backend dev
+  level: 5
+  desc: |
+    Умный красивый, привлекательный,
+    филантроп, добродейтель,
+    лучший руководитель группы разработки,
+    превосходный архитектор,
+    да еще и скромный
+
+address:
+  country: Russia
+  city: Surgut
+  street: Cool 
+  houseNumber: 27
+  apartmentNumber: 131
+
+pet:
+  name: Sigma
+  breed: damn
+  isSayMay: yes
